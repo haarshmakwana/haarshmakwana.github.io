@@ -11,7 +11,7 @@
     </nav>
     <div class="copyright">
       © Copyright 2025, 
-      <a href="">Harsh Makwana</a> All Rights Reserved
+      <a href="">HM</a> All Rights Reserved
     </div>
     <div>
       Handle By
