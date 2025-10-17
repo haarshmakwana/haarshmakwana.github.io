@@ -20,6 +20,9 @@
 
       <div class="main-panel">
 
+        <!-- header -->
+        @include('adminTheme.header')
+
         @yield('content')
 
         <!-- footer -->

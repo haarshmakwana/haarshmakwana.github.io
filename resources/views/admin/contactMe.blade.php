@@ -11,7 +11,7 @@ Contact Me
 </style>
 
 @section('content')
-<div class="card">
+<div class="card" style="margin-top: 80px;">
   <div class="card-body p-2 m-5">
     <div class="table-responsive">
       <!-- Projects table -->
